@@ -10,7 +10,7 @@ Our aim with this project is to:
 - give security teams better visibility into their assets.
 - reduce the load and noise that some programs face from automated tools (we run them on schedule, and give the results to everyone)
 
-[<img src="screenshots/banner.png" />](https://cvedb.io/auth/register)
+[<img src="screenshots/banner.png" />](https://cvedb.khulnasoft.com/auth/register)
 
 ## How it works
 
@@ -100,4 +100,4 @@ All contributions/ideas/suggestions are welcome! If you want to add/edit a targe
 ## Build your own workflows!
 We believe in the value of tinkering. Sign up for a demo on [cvedb.khulnasoft.com](https://cvedb.khulnasoft.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
 
-[<img src="screenshots/banner.png" />](https://cvedb.io/auth/register)
+[<img src="screenshots/banner.png" />](https://cvedb.khulnasoft.com/auth/register)
