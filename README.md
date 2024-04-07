@@ -1,4 +1,4 @@
-<h1 align="center">Inventory <a href="https://twitter.com/intent/tweet?text=Inventory%20-%20Asset%20Inventory%20of%20public%20bug%20bounty%20programs.%20https://github.com/cvedb/inventory%20by%20%40trick3st&hashtags=security,bugbounty,bugbountytips,assets,infosec,cybersecurity,recon,reconnaissance"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
+<h1 align="center">Inventory <a href="https://twitter.com/intent/tweet?text=Inventory%20-%20Asset%20Inventory%20of%20public%20bug%20bounty%20programs.%20https://github.com/cvedb/inventory%20by%20%40khulnasoft&hashtags=security,bugbounty,bugbountytips,assets,infosec,cybersecurity,recon,reconnaissance"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Attack Surface Management of public bug bounty programs.</h3>
 
 The data we collect here includes DNS and Web Server data of public bug bounty programs.
@@ -95,9 +95,9 @@ This workflow streamlines the consolidation of bug bounty program data from vari
 > **Note**: As described, almost everything in this repository is generated automatically. We carefully designed the workflows (and continue to develop them) to ensure the results are as accurate as possible.
 
 ## Contribution
-All contributions/ideas/suggestions are welcome! If you want to add/edit a target/workflow, feel free to send us a PR with new targets through [community.json](community.json), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
+All contributions/ideas/suggestions are welcome! If you want to add/edit a target/workflow, feel free to send us a PR with new targets through [community.json](community.json), tweet at us [@khulnasoft](https://twitter.com/khulnasoft), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
 
 ## Build your own workflows!
-We believe in the value of tinkering. Sign up for a demo on [cvedb.com](https://cvedb.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
+We believe in the value of tinkering. Sign up for a demo on [cvedb.khulnasoft.com](https://cvedb.khulnasoft.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
 
 [<img src="screenshots/banner.png" />](https://cvedb.io/auth/register)
